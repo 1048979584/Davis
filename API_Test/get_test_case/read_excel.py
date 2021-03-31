@@ -2,7 +2,7 @@ import xlrd
 
 class ExcelUtil(object):
     def __init__(self, excelPath, sheetName):
-        #读取对象和表
+        #get excel &sheet
         self.data = xlrd.open_workbook(excelPath)
         self.table = self.data.sheet_by_name(sheetName)
         # get titles
@@ -15,7 +15,7 @@ class ExcelUtil(object):
         self.curRowNo = 1
 
     def next(self):
-        r = []
+        case = []
         while self.hasNext():
             s = {}
             #获取每一行的值
@@ -25,9 +25,10 @@ class ExcelUtil(object):
             for x in range(i):
             #创建字典，标题为键，内容为值
                 s[self.row[x]] = col[x]
-            r.append(s)
+            case.append(s)
             self.curRowNo += 1
-        return r
+        # print(case)
+        return case
 
 
     def hasNext(self):
@@ -38,6 +39,6 @@ class ExcelUtil(object):
 
 
 if __name__ == '__main__':
-    excel = ExcelUtil("D:\\phthon\\SLEQ\\jiekou\\common\\jiekou.xlsx", 'Sheet1')
+    excel = ExcelUtil("G:\LocalGit\github仓库\jiekou\Demo\jiekou.xlsx", 'Sheet1')
     data = excel.next()
 

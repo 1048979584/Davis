@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b158cd0e-7340-409f-97e6-30710a99bd38" name="Default Changelist" comment="" />
+    <list default="true" id="b158cd0e-7340-409f-97e6-30710a99bd38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/Firefox-geckodriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG-Py3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-NoIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-NoIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-SeleniumIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-SeleniumIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/Local/test_unittest_HwTestReport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport_Selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/.idea/jiekou.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/Demo/TestReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/Demo/clear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/Demo/jiekou.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/Demo/tt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/common/common.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/get_test_case/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/get_test_case/read_excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/script/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiekou/test/test_data.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,45 +43,96 @@
     <session id="300701162">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="txt" value="1" />
+          <entry key="html" value="15" />
+          <entry key="py" value="16" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="HTML" value="15" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="10" />
+          <entry key="py" value="845" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Python" value="845" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.txt">
+        <entry file="file://$PROJECT_DIR$/API_Test/test/test_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="208">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1736">
+              <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+              <folding>
+                <element signature="e#309#324#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/Local/HwTestReportCN-SeleniumIMG.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7695" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Test/send_report/TestReport.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +141,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py" />
+        <option value="$PROJECT_DIR$/jiekou/common/test.py" />
+        <option value="$PROJECT_DIR$/jiekou/common/common.py" />
+        <option value="$PROJECT_DIR$/jiekou/script/common.py" />
+        <option value="$PROJECT_DIR$/jiekou/get_test_case/read_excel.py" />
+        <option value="$PROJECT_DIR$/jiekou/send_report/TestReport.html" />
+        <option value="$PROJECT_DIR$/jiekou/test/test.py" />
+        <option value="$PROJECT_DIR$/jiekou/script/api_script.py" />
+        <option value="$PROJECT_DIR$/jiekou/test/test_data.py" />
+        <option value="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" />
+        <option value="$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport.py" />
+        <option value="$PROJECT_DIR$/API_Test/HwTestReport/Local/test_unittest_HwTestReport.py" />
+        <option value="$PROJECT_DIR$/API_Test/test/test_data.py" />
       </list>
     </option>
   </component>
@@ -67,6 +162,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -79,6 +175,36 @@
               <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
               <item name="github仓库" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="HwTestReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="HwTestReport" type="462c0819:PsiDirectoryNode" />
+              <item name="HtmlTestReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="send_report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -87,7 +213,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/API_Test/test/test_data.py" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,6 +228,137 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.unittest">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/send_report" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/send_report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou/script/api_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/send_report" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jiekou/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unittest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Test/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/test/test_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_data.DataTest.test01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_data.DataTest.test01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_data.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/jiekou/test/test_data.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.unittest" />
+      <item itemvalue="Python.api_script" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python tests.Unittests in test_data.py" />
+      <item itemvalue="Python tests.Unittests for test_data.DataTest.test01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.unittest" />
+        <item itemvalue="Python.api_script" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.Unittests in test_data.py" />
+        <item itemvalue="Python tests.Unittests for test_data.DataTest.test01" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -122,23 +381,56 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 46m 00s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 49m 14s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 49m 40s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_data_DataTest_test01 - 2021.03.31 at 14h 50m 26s.xml">
+      <configuration name="Unittests for test_data.DataTest.test01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_data_DataTest_test01 - 2021.03.31 at 14h 50m 46s.xml">
+      <configuration name="Unittests for test_data.DataTest.test01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_data_DataTest_test01 - 2021.03.31 at 14h 51m 17s.xml">
+      <configuration name="Unittests for test_data.DataTest.test01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 51m 27s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 56m 19s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_data_DataTest_test01 - 2021.03.31 at 14h 57m 18s.xml">
+      <configuration name="Unittests for test_data.DataTest.test01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_data_py - 2021.03.31 at 14h 57m 24s.xml">
+      <configuration name="Unittests in test_data.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16799092" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27128264" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291714" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,6 +448,444 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py" />
+    <entry file="file://$PROJECT_DIR$/jiekou/script/test.py" />
+    <entry file="file://$PROJECT_DIR$/jiekou/Demo/TestReport.html" />
+    <entry file="file://$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py - 副本.txt" />
+    <entry file="file://$PROJECT_DIR$/jiekou/Demo/clear.py" />
+    <entry file="file://$PROJECT_DIR$/jiekou/Demo/tt.py" />
+    <entry file="file://D:/软件/Python/Python38/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4135">
+          <caret line="514" column="8" selection-start-line="514" selection-start-column="8" selection-end-line="514" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/test/test.py" />
+    <entry file="file://$PROJECT_DIR$/jiekou/get_test_case/read_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/script/api_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/test/test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiekou/send_report/TestReport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6458#6462#0" expanded="true" />
+            <element signature="e#6475#6479#0" expanded="true" />
+            <element signature="e#6483#6487#0" expanded="true" />
+            <element signature="e#6501#6505#0" expanded="true" />
+            <element signature="e#6505#6509#0" expanded="true" />
+            <element signature="e#6513#6517#0" expanded="true" />
+            <element signature="e#6518#6522#0" expanded="true" />
+            <element signature="e#6526#6530#0" expanded="true" />
+            <element signature="e#6530#6534#0" expanded="true" />
+            <element signature="e#6594#6598#0" expanded="true" />
+            <element signature="e#6598#6602#0" expanded="true" />
+            <element signature="e#6649#6653#0" expanded="true" />
+            <element signature="e#6653#6657#0" expanded="true" />
+            <element signature="e#6690#6694#0" expanded="true" />
+            <element signature="e#6694#6698#0" expanded="true" />
+            <element signature="e#6814#6818#0" expanded="true" />
+            <element signature="e#6818#6822#0" expanded="true" />
+            <element signature="e#6827#6831#0" expanded="true" />
+            <element signature="e#6840#6844#0" expanded="true" />
+            <element signature="e#6850#6854#0" expanded="true" />
+            <element signature="e#6854#6858#0" expanded="true" />
+            <element signature="e#6863#6867#0" expanded="true" />
+            <element signature="e#6868#6872#0" expanded="true" />
+            <element signature="e#6889#6893#0" expanded="true" />
+            <element signature="e#6894#6898#0" expanded="true" />
+            <element signature="e#6912#6916#0" expanded="true" />
+            <element signature="e#6917#6921#0" expanded="true" />
+            <element signature="e#6932#6936#0" expanded="true" />
+            <element signature="e#6937#6941#0" expanded="true" />
+            <element signature="e#6963#6967#0" expanded="true" />
+            <element signature="e#6968#6972#0" expanded="true" />
+            <element signature="e#6988#6992#0" expanded="true" />
+            <element signature="e#6993#6997#0" expanded="true" />
+            <element signature="e#7021#7025#0" expanded="true" />
+            <element signature="e#7026#7030#0" expanded="true" />
+            <element signature="e#7039#7043#0" expanded="true" />
+            <element signature="e#7044#7048#0" expanded="true" />
+            <element signature="e#7124#7128#0" expanded="true" />
+            <element signature="e#7129#7133#0" expanded="true" />
+            <element signature="e#7137#7141#0" expanded="true" />
+            <element signature="e#7142#7146#0" expanded="true" />
+            <element signature="e#7199#7203#0" expanded="true" />
+            <element signature="e#7204#7208#0" expanded="true" />
+            <element signature="e#7249#7253#0" expanded="true" />
+            <element signature="e#7254#7258#0" expanded="true" />
+            <element signature="e#7295#7299#0" expanded="true" />
+            <element signature="e#7300#7304#0" expanded="true" />
+            <element signature="e#7336#7340#0" expanded="true" />
+            <element signature="e#7341#7345#0" expanded="true" />
+            <element signature="e#7382#7386#0" expanded="true" />
+            <element signature="e#7387#7391#0" expanded="true" />
+            <element signature="e#7429#7433#0" expanded="true" />
+            <element signature="e#7434#7438#0" expanded="true" />
+            <element signature="e#7475#7479#0" expanded="true" />
+            <element signature="e#7479#7483#0" expanded="true" />
+            <element signature="e#7507#7511#0" expanded="true" />
+            <element signature="e#7511#7515#0" expanded="true" />
+            <element signature="e#7603#7607#0" expanded="true" />
+            <element signature="e#7607#7611#0" expanded="true" />
+            <element signature="e#7616#7620#0" expanded="true" />
+            <element signature="e#7620#7624#0" expanded="true" />
+            <element signature="e#7648#7652#0" expanded="true" />
+            <element signature="e#7652#7656#0" expanded="true" />
+            <element signature="e#7717#7721#0" expanded="true" />
+            <element signature="e#7721#7725#0" expanded="true" />
+            <element signature="e#7730#7734#0" expanded="true" />
+            <element signature="e#7735#7739#0" expanded="true" />
+            <element signature="e#7744#7748#0" expanded="true" />
+            <element signature="e#7749#7753#0" expanded="true" />
+            <element signature="e#7757#7761#0" expanded="true" />
+            <element signature="e#7762#7766#0" expanded="true" />
+            <element signature="e#7770#7774#0" expanded="true" />
+            <element signature="e#7775#7779#0" expanded="true" />
+            <element signature="e#7788#7792#0" expanded="true" />
+            <element signature="e#7793#7797#0" expanded="true" />
+            <element signature="e#7851#7855#0" expanded="true" />
+            <element signature="e#7857#7861#0" expanded="true" />
+            <element signature="e#7863#7867#0" expanded="true" />
+            <element signature="e#7868#7872#0" expanded="true" />
+            <element signature="e#7929#7933#0" expanded="true" />
+            <element signature="e#7939#7943#0" expanded="true" />
+            <element signature="e#7945#7949#0" expanded="true" />
+            <element signature="e#7950#7954#0" expanded="true" />
+            <element signature="e#8006#8010#0" expanded="true" />
+            <element signature="e#8012#8016#0" expanded="true" />
+            <element signature="e#8018#8022#0" expanded="true" />
+            <element signature="e#8023#8027#0" expanded="true" />
+            <element signature="e#8079#8083#0" expanded="true" />
+            <element signature="e#8085#8089#0" expanded="true" />
+            <element signature="e#8091#8095#0" expanded="true" />
+            <element signature="e#8096#8100#0" expanded="true" />
+            <element signature="e#8156#8160#0" expanded="true" />
+            <element signature="e#8162#8166#0" expanded="true" />
+            <element signature="e#8168#8172#0" expanded="true" />
+            <element signature="e#8173#8177#0" expanded="true" />
+            <element signature="e#8185#8189#0" expanded="true" />
+            <element signature="e#8190#8194#0" expanded="true" />
+            <element signature="e#8243#8248#0" expanded="true" />
+            <element signature="e#8258#8263#0" expanded="true" />
+            <element signature="e#8338#8342#0" expanded="true" />
+            <element signature="e#8344#8348#0" expanded="true" />
+            <element signature="e#8350#8354#0" expanded="true" />
+            <element signature="e#8355#8359#0" expanded="true" />
+            <element signature="e#8368#8372#0" expanded="true" />
+            <element signature="e#8373#8377#0" expanded="true" />
+            <element signature="e#8383#8387#0" expanded="true" />
+            <element signature="e#8404#8408#0" expanded="true" />
+            <element signature="e#8458#8463#0" expanded="true" />
+            <element signature="e#8469#8474#0" expanded="true" />
+            <element signature="e#8561#8566#0" expanded="true" />
+            <element signature="e#8617#8621#0" expanded="true" />
+            <element signature="e#8623#8627#0" expanded="true" />
+            <element signature="e#8629#8633#0" expanded="true" />
+            <element signature="e#8657#8661#0" expanded="true" />
+            <element signature="e#8668#8672#0" expanded="true" />
+            <element signature="e#8673#8677#0" expanded="true" />
+            <element signature="e#8755#8759#0" expanded="true" />
+            <element signature="e#8763#8767#0" expanded="true" />
+            <element signature="e#8769#8773#0" expanded="true" />
+            <element signature="e#8774#8778#0" expanded="true" />
+            <element signature="e#8782#8786#0" expanded="true" />
+            <element signature="e#8787#8791#0" expanded="true" />
+            <element signature="e#8795#8799#0" expanded="true" />
+            <element signature="e#8800#8804#0" expanded="true" />
+            <element signature="e#8808#8812#0" expanded="true" />
+            <element signature="e#8813#8817#0" expanded="true" />
+            <element signature="e#8829#8833#0" expanded="true" />
+            <element signature="e#8834#8838#0" expanded="true" />
+            <element signature="e#8851#8855#0" expanded="true" />
+            <element signature="e#8856#8860#0" expanded="true" />
+            <element signature="e#8867#8871#0" expanded="true" />
+            <element signature="e#8872#8876#0" expanded="true" />
+            <element signature="e#8904#8908#0" expanded="true" />
+            <element signature="e#8912#8916#0" expanded="true" />
+            <element signature="e#8918#8922#0" expanded="true" />
+            <element signature="e#8923#8927#0" expanded="true" />
+            <element signature="e#8953#8957#0" expanded="true" />
+            <element signature="e#8968#8972#0" expanded="true" />
+            <element signature="e#8974#8978#0" expanded="true" />
+            <element signature="e#8979#8983#0" expanded="true" />
+            <element signature="e#8985#8989#0" expanded="true" />
+            <element signature="e#8990#8994#0" expanded="true" />
+            <element signature="e#9001#9005#0" expanded="true" />
+            <element signature="e#9005#9010#0" expanded="true" />
+            <element signature="e#9019#9024#0" expanded="true" />
+            <element signature="e#9034#9039#0" expanded="true" />
+            <element signature="e#9044#9048#0" expanded="true" />
+            <element signature="e#9081#9085#0" expanded="true" />
+            <element signature="e#9092#9096#0" expanded="true" />
+            <element signature="e#9098#9102#0" expanded="true" />
+            <element signature="e#9102#9107#0" expanded="true" />
+            <element signature="e#9113#9117#0" expanded="true" />
+            <element signature="e#9166#9170#0" expanded="true" />
+            <element signature="e#9174#9178#0" expanded="true" />
+            <element signature="e#9180#9184#0" expanded="true" />
+            <element signature="e#9184#9189#0" expanded="true" />
+            <element signature="e#9206#9211#0" expanded="true" />
+            <element signature="e#9217#9221#0" expanded="true" />
+            <element signature="e#9255#9259#0" expanded="true" />
+            <element signature="e#9260#9264#0" expanded="true" />
+            <element signature="e#9266#9270#0" expanded="true" />
+            <element signature="e#9271#9275#0" expanded="true" />
+            <element signature="e#9279#9283#0" expanded="true" />
+            <element signature="e#9284#9288#0" expanded="true" />
+            <element signature="e#9292#9296#0" expanded="true" />
+            <element signature="e#9297#9301#0" expanded="true" />
+            <element signature="e#9305#9309#0" expanded="true" />
+            <element signature="e#9310#9314#0" expanded="true" />
+            <element signature="e#9319#9323#0" expanded="true" />
+            <element signature="e#9324#9328#0" expanded="true" />
+            <element signature="e#9333#9337#0" expanded="true" />
+            <element signature="e#9648#9652#0" expanded="true" />
+            <element signature="e#9665#9669#0" expanded="true" />
+            <element signature="e#9673#9677#0" expanded="true" />
+            <element signature="e#9691#9695#0" expanded="true" />
+            <element signature="e#9695#9699#0" expanded="true" />
+            <element signature="e#9703#9707#0" expanded="true" />
+            <element signature="e#9708#9712#0" expanded="true" />
+            <element signature="e#9716#9720#0" expanded="true" />
+            <element signature="e#9720#9724#0" expanded="true" />
+            <element signature="e#9784#9788#0" expanded="true" />
+            <element signature="e#9788#9792#0" expanded="true" />
+            <element signature="e#9839#9843#0" expanded="true" />
+            <element signature="e#9843#9847#0" expanded="true" />
+            <element signature="e#9880#9884#0" expanded="true" />
+            <element signature="e#9884#9888#0" expanded="true" />
+            <element signature="e#10004#10008#0" expanded="true" />
+            <element signature="e#10008#10012#0" expanded="true" />
+            <element signature="e#10017#10021#0" expanded="true" />
+            <element signature="e#10030#10034#0" expanded="true" />
+            <element signature="e#10040#10044#0" expanded="true" />
+            <element signature="e#10044#10048#0" expanded="true" />
+            <element signature="e#10053#10057#0" expanded="true" />
+            <element signature="e#10058#10062#0" expanded="true" />
+            <element signature="e#10079#10083#0" expanded="true" />
+            <element signature="e#10084#10088#0" expanded="true" />
+            <element signature="e#10102#10106#0" expanded="true" />
+            <element signature="e#10107#10111#0" expanded="true" />
+            <element signature="e#10122#10126#0" expanded="true" />
+            <element signature="e#10127#10131#0" expanded="true" />
+            <element signature="e#10153#10157#0" expanded="true" />
+            <element signature="e#10158#10162#0" expanded="true" />
+            <element signature="e#10178#10182#0" expanded="true" />
+            <element signature="e#10183#10187#0" expanded="true" />
+            <element signature="e#10211#10215#0" expanded="true" />
+            <element signature="e#10216#10220#0" expanded="true" />
+            <element signature="e#10229#10233#0" expanded="true" />
+            <element signature="e#10234#10238#0" expanded="true" />
+            <element signature="e#10314#10318#0" expanded="true" />
+            <element signature="e#10319#10323#0" expanded="true" />
+            <element signature="e#10327#10331#0" expanded="true" />
+            <element signature="e#10332#10336#0" expanded="true" />
+            <element signature="e#10389#10393#0" expanded="true" />
+            <element signature="e#10394#10398#0" expanded="true" />
+            <element signature="e#10439#10443#0" expanded="true" />
+            <element signature="e#10444#10448#0" expanded="true" />
+            <element signature="e#10485#10489#0" expanded="true" />
+            <element signature="e#10490#10494#0" expanded="true" />
+            <element signature="e#10526#10530#0" expanded="true" />
+            <element signature="e#10531#10535#0" expanded="true" />
+            <element signature="e#10572#10576#0" expanded="true" />
+            <element signature="e#10577#10581#0" expanded="true" />
+            <element signature="e#10619#10623#0" expanded="true" />
+            <element signature="e#10624#10628#0" expanded="true" />
+            <element signature="e#10665#10669#0" expanded="true" />
+            <element signature="e#10669#10673#0" expanded="true" />
+            <element signature="e#10697#10701#0" expanded="true" />
+            <element signature="e#10701#10705#0" expanded="true" />
+            <element signature="e#10793#10797#0" expanded="true" />
+            <element signature="e#10797#10801#0" expanded="true" />
+            <element signature="e#10806#10810#0" expanded="true" />
+            <element signature="e#10810#10814#0" expanded="true" />
+            <element signature="e#10838#10842#0" expanded="true" />
+            <element signature="e#10842#10846#0" expanded="true" />
+            <element signature="e#10907#10911#0" expanded="true" />
+            <element signature="e#10911#10915#0" expanded="true" />
+            <element signature="e#10920#10924#0" expanded="true" />
+            <element signature="e#10925#10929#0" expanded="true" />
+            <element signature="e#10934#10938#0" expanded="true" />
+            <element signature="e#10939#10943#0" expanded="true" />
+            <element signature="e#10947#10951#0" expanded="true" />
+            <element signature="e#10952#10956#0" expanded="true" />
+            <element signature="e#10960#10964#0" expanded="true" />
+            <element signature="e#10965#10969#0" expanded="true" />
+            <element signature="e#10978#10982#0" expanded="true" />
+            <element signature="e#10983#10987#0" expanded="true" />
+            <element signature="e#11041#11045#0" expanded="true" />
+            <element signature="e#11047#11051#0" expanded="true" />
+            <element signature="e#11053#11057#0" expanded="true" />
+            <element signature="e#11058#11062#0" expanded="true" />
+            <element signature="e#11119#11123#0" expanded="true" />
+            <element signature="e#11129#11133#0" expanded="true" />
+            <element signature="e#11135#11139#0" expanded="true" />
+            <element signature="e#11140#11144#0" expanded="true" />
+            <element signature="e#11196#11200#0" expanded="true" />
+            <element signature="e#11202#11206#0" expanded="true" />
+            <element signature="e#11208#11212#0" expanded="true" />
+            <element signature="e#11213#11217#0" expanded="true" />
+            <element signature="e#11269#11273#0" expanded="true" />
+            <element signature="e#11275#11279#0" expanded="true" />
+            <element signature="e#11281#11285#0" expanded="true" />
+            <element signature="e#11286#11290#0" expanded="true" />
+            <element signature="e#11346#11350#0" expanded="true" />
+            <element signature="e#11352#11356#0" expanded="true" />
+            <element signature="e#11358#11362#0" expanded="true" />
+            <element signature="e#11363#11367#0" expanded="true" />
+            <element signature="e#11375#11379#0" expanded="true" />
+            <element signature="e#11380#11384#0" expanded="true" />
+            <element signature="e#11433#11438#0" expanded="true" />
+            <element signature="e#11448#11453#0" expanded="true" />
+            <element signature="e#11528#11532#0" expanded="true" />
+            <element signature="e#11534#11538#0" expanded="true" />
+            <element signature="e#11540#11544#0" expanded="true" />
+            <element signature="e#11545#11549#0" expanded="true" />
+            <element signature="e#11558#11562#0" expanded="true" />
+            <element signature="e#11563#11567#0" expanded="true" />
+            <element signature="e#11573#11577#0" expanded="true" />
+            <element signature="e#11594#11598#0" expanded="true" />
+            <element signature="e#11648#11653#0" expanded="true" />
+            <element signature="e#11659#11664#0" expanded="true" />
+            <element signature="e#11751#11756#0" expanded="true" />
+            <element signature="e#11807#11811#0" expanded="true" />
+            <element signature="e#11813#11817#0" expanded="true" />
+            <element signature="e#11819#11823#0" expanded="true" />
+            <element signature="e#11847#11851#0" expanded="true" />
+            <element signature="e#11858#11862#0" expanded="true" />
+            <element signature="e#11863#11867#0" expanded="true" />
+            <element signature="e#11945#11949#0" expanded="true" />
+            <element signature="e#11953#11957#0" expanded="true" />
+            <element signature="e#11959#11963#0" expanded="true" />
+            <element signature="e#11964#11968#0" expanded="true" />
+            <element signature="e#11972#11976#0" expanded="true" />
+            <element signature="e#11977#11981#0" expanded="true" />
+            <element signature="e#11985#11989#0" expanded="true" />
+            <element signature="e#11990#11994#0" expanded="true" />
+            <element signature="e#11998#12002#0" expanded="true" />
+            <element signature="e#12003#12007#0" expanded="true" />
+            <element signature="e#12019#12023#0" expanded="true" />
+            <element signature="e#12024#12028#0" expanded="true" />
+            <element signature="e#12041#12045#0" expanded="true" />
+            <element signature="e#12046#12050#0" expanded="true" />
+            <element signature="e#12057#12061#0" expanded="true" />
+            <element signature="e#12062#12066#0" expanded="true" />
+            <element signature="e#12094#12098#0" expanded="true" />
+            <element signature="e#12102#12106#0" expanded="true" />
+            <element signature="e#12108#12112#0" expanded="true" />
+            <element signature="e#12113#12117#0" expanded="true" />
+            <element signature="e#12143#12147#0" expanded="true" />
+            <element signature="e#12158#12162#0" expanded="true" />
+            <element signature="e#12164#12168#0" expanded="true" />
+            <element signature="e#12169#12173#0" expanded="true" />
+            <element signature="e#12175#12179#0" expanded="true" />
+            <element signature="e#12180#12184#0" expanded="true" />
+            <element signature="e#12191#12195#0" expanded="true" />
+            <element signature="e#12195#12200#0" expanded="true" />
+            <element signature="e#12209#12214#0" expanded="true" />
+            <element signature="e#12224#12229#0" expanded="true" />
+            <element signature="e#12234#12238#0" expanded="true" />
+            <element signature="e#12271#12275#0" expanded="true" />
+            <element signature="e#12282#12286#0" expanded="true" />
+            <element signature="e#12288#12292#0" expanded="true" />
+            <element signature="e#12292#12297#0" expanded="true" />
+            <element signature="e#12303#12307#0" expanded="true" />
+            <element signature="e#12356#12360#0" expanded="true" />
+            <element signature="e#12364#12368#0" expanded="true" />
+            <element signature="e#12370#12374#0" expanded="true" />
+            <element signature="e#12374#12379#0" expanded="true" />
+            <element signature="e#12396#12401#0" expanded="true" />
+            <element signature="e#12407#12411#0" expanded="true" />
+            <element signature="e#12445#12449#0" expanded="true" />
+            <element signature="e#12450#12454#0" expanded="true" />
+            <element signature="e#12456#12460#0" expanded="true" />
+            <element signature="e#12461#12465#0" expanded="true" />
+            <element signature="e#12469#12473#0" expanded="true" />
+            <element signature="e#12474#12478#0" expanded="true" />
+            <element signature="e#12482#12486#0" expanded="true" />
+            <element signature="e#12487#12491#0" expanded="true" />
+            <element signature="e#12495#12499#0" expanded="true" />
+            <element signature="e#12500#12504#0" expanded="true" />
+            <element signature="e#12509#12513#0" expanded="true" />
+            <element signature="e#12514#12518#0" expanded="true" />
+            <element signature="e#12523#12527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/send_report/TestReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-SeleniumIMG-Py2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-NoIMG-Py2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport_Selenium.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1736">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <element signature="e#309#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/Local/test_unittest_HwTestReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/Local/HwTestReportCN-SeleniumIMG.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7695" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/test/test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
