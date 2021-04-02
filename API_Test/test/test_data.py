@@ -1,57 +1,54 @@
-import unittest,ddt,time,os
+import unittest,ddt,time,os,json
 import warnings
-from HTMLTestRunner import HTMLTestRunner
-
 from API_Test.HwTestReport.HwTestReport import HTMLTestReport
-
-
-
 from API_Test.get_test_case.read_excel import ExcelUtil
 from API_Test.script.api_script import CaseScript
 
 
-excel = ExcelUtil("G:\LocalGit\github仓库\API_Test\Demo\jiekou.xlsx", 'Sheet1')
+excel = ExcelUtil("G:\LocalGit\github仓库\API_Test\Demo\jiekou.xlsx", '汇总')
 @ddt.ddt
 class DataTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         # warnings.simplefilter('ignore',ResourceWarning)
-        print('接口测试开始...')
+        print('### 接口测试开始 ###')
     @classmethod
     def tearDownClass(cls):
-        print('...接口测试结束')
+        time.sleep(1)
+        print('### 接口测试结束 ###')
     @ddt.data(*excel.next())
     def test01(self,data):
-        # 每次遍历后将字典置为空
-        body_data = {}
+        body_data = {}  # 每次遍历后将字典置为空
         ReqMethod=data['请求方式']
         url2 = data['接口地址']
-        test_data = data['参数']
-        Except1 = data['响应码']
-        Except2=data['预期结果']
-        li = test_data.split('\n')
-        for j in li:
-            key= j.split('=')[0]
-            value= j.split('=')[1]
-            body_data[key] = value
-        #选择请求方式
-        if ReqMethod =='post':
-            Result01 = CaseScript().post_api(url=url2,data=body_data)
-            self.assertEqual(Except1, str(Result01[0]))
-            self.assertIn(Except2,Result01[1])
+        Except1 = data['状态码']
+        Except2=data['响应文本']
 
         if ReqMethod =='get':
             Result02 = CaseScript().get_api(url=url2)
             self.assertEqual(Except1, str(Result02[0]))
             self.assertIn(Except2,Result02[1])
 
+        if ReqMethod =='post_session':
+            test_data = eval((data['参数']))  # 还原数据类型
+            Result01 = CaseScript().post_api_session(url=url2,data=test_data)
+            self.assertEqual(Except1, str(Result01[0]))
+            self.assertIn(Except2,Result01[1])
 
-
+        if ReqMethod =='post':
+            test_data = eval((data['参数']))
+            Result01 = CaseScript().post_api(url=url2,data=test_data)
+            self.assertEqual(Except1, str(Result01[0]))
+            self.assertIn(Except2,Result01[1])
 
 if __name__ == '__main__':
     suite = unittest.TestLoader().loadTestsFromTestCase(DataTest)
-    now = time.strftime("%m%d%H%M")
-    file_name = "G:\LocalGit\github仓库\API_Test\HwTestReport\HtmlTestReport\TestReport.html"
+    #时间维度生成报告
+    #now=time.strftime("%m_%d_%H_%M)", time.localtime())
+    now = time.strftime("%m_%d_%H)", time.localtime())
+    print(now)
+    report_name="TestReport("+now+".html"
+    file_name = "G:\LocalGit\github仓库\API_Test\HwTestReport\HtmlTestReport\%s"%(report_name)
 
     with open(file_name, 'wb') as file:
         HTMLTestReport(stream=file, verbosity=3, title='接口测试报告').run(suite)

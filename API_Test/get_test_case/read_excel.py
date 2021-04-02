@@ -1,3 +1,5 @@
+import json
+
 import xlrd
 
 class ExcelUtil(object):
@@ -39,6 +41,13 @@ class ExcelUtil(object):
 
 
 if __name__ == '__main__':
-    excel = ExcelUtil("G:\LocalGit\github仓库\jiekou\Demo\jiekou.xlsx", 'Sheet1')
+    excel = ExcelUtil("G:\LocalGit\github仓库\API_Test\Demo\jiekou.xlsx", '汇总')
     data = excel.next()
+    print(data[2])
+    print(type(data[2]['参数']))
+    # a=json.dumps(data[2]['参数'])
+    a=data[2]['参数']
+    a=eval(a)
+    print(a)
+    print(type(a))
 
