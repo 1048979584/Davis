@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b158cd0e-7340-409f-97e6-30710a99bd38" name="Default Changelist" comment="" />
+    <list default="true" id="b158cd0e-7340-409f-97e6-30710a99bd38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/API_Test/Test_Case/ApiCase.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Test/Test_Report/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/Demo/jiekou.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/Test_Case/jiekou.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/HwTestReport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/Firefox-geckodriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG-Py3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-SeleniumIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-NoIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-NoIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-SeleniumIMG-Py2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportEN-SeleniumIMG.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/get_test_case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/Get_TestCase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/get_test_case/read_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/Get_TestCase/read_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/runMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/runMain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Test/test/test_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Test/test/test_data.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +75,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="930483183">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="87" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API_Test/test/test_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="-795">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -71,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API_Test/script/api_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1134">
+            <state relative-caret-position="324">
               <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -83,8 +135,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+            <state relative-caret-position="1060">
+              <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
               <folding>
                 <element signature="e#15#30#0" expanded="true" />
               </folding>
@@ -93,15 +145,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_15_07_56_result.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2025">
+              <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/API_Test/get_test_case/read_excel.py">
+        <entry file="file://$PROJECT_DIR$/API_Test/runMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+            <state relative-caret-position="331">
+              <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/API_Test/Get_TestCase/read_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -137,12 +202,13 @@
         <option value="$PROJECT_DIR$/jiekou/test/test_data.py" />
         <option value="$PROJECT_DIR$/API_Test/HwTestReport/test_unittest_HwTestReport.py" />
         <option value="$PROJECT_DIR$/API_Test/HwTestReport/Local/test_unittest_HwTestReport.py" />
-        <option value="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" />
         <option value="$PROJECT_DIR$/API_Test/script/api_script.py" />
         <option value="$PROJECT_DIR$/API_Test/get_test_case/read_excel.py" />
         <option value="$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG.html" />
         <option value="$PROJECT_DIR$/API_Test/test/test_data.py" />
         <option value="$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py" />
+        <option value="$PROJECT_DIR$/API_Test/runMain.py" />
+        <option value="$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py" />
       </list>
     </option>
   </component>
@@ -157,59 +223,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QiuW" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QiuW" type="462c0819:PsiDirectoryNode" />
               <item name="API_Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
-              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
-              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="get_test_case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QiuW" type="462c0819:PsiDirectoryNode" />
               <item name="API_Test" type="462c0819:PsiDirectoryNode" />
               <item name="HwTestReport" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
-              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QiuW" type="462c0819:PsiDirectoryNode" />
               <item name="API_Test" type="462c0819:PsiDirectoryNode" />
               <item name="send_report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github仓库" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github仓库" type="462c0819:PsiDirectoryNode" />
-              <item name="API_Test" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -219,6 +261,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\LocalGit\github\QiuW\API_Test\Demo" />
       <recent name="G:\LocalGit\github仓库\API_Test\HwTestReport\HtmlTestReport" />
       <recent name="G:\LocalGit\github仓库\API_Test\send_report" />
     </key>
@@ -235,7 +278,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runtest_htmltestrunner_autosendemail">
+  <component name="RunManager" selected="Python.SendReport">
+    <configuration name="SendReport" type="PythonConfigurationType" factoryName="Python">
+      <module name="github仓库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Test/send_report" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="github仓库" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,91 +342,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api_script (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="github仓库" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jiekou/send_report" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/script/api_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="api_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="github仓库" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Test/script" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/script/api_script.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="github仓库" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Test/get_test_case" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/get_test_case/read_excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="runtest_htmltestrunner_autosendemail" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="github仓库" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\软件\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API_Test/send_report" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="unittest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_data" type="PythonConfigurationType" factoryName="Python">
       <module name="github仓库" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,21 +365,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.unittest" />
-      <item itemvalue="Python.api_script" />
-      <item itemvalue="Python.api_script (1)" />
-      <item itemvalue="Python.read_excel" />
-      <item itemvalue="Python.runtest_htmltestrunner_autosendemail" />
+      <item itemvalue="Python.test_data" />
+      <item itemvalue="Python.SendReport" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.runtest_htmltestrunner_autosendemail" />
-        <item itemvalue="Python.unittest" />
-        <item itemvalue="Python.read_excel" />
-        <item itemvalue="Python.api_script" />
-        <item itemvalue="Python.api_script (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -463,13 +431,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.16799092" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22360954" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.24177071" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22360954" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,14 +460,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py" />
     <entry file="file://$PROJECT_DIR$/jiekou/script/test.py" />
     <entry file="file://$PROJECT_DIR$/jiekou/Demo/TestReport.html" />
     <entry file="file://$PROJECT_DIR$/jiekou/send_report/runtest_htmltestrunner_autosendemail.py - 副本.txt" />
@@ -542,236 +503,49 @@
     <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_13).html" />
     <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-01_14_27_15_result.html" />
     <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_14).html" />
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_15).html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_15).html" />
     <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/HwTestReportCN-NoIMG.html" />
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/Local/HwTestReportCN-SeleniumIMG.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py">
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/Local/HwTestReportCN-SeleniumIMG.html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_02_13).html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_16).html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_17).html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_15_19_44_result.html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_15_07_56_result.html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_16_03_27_result.html" />
+    <entry file="file://$PROJECT_DIR$/API_Test/Get_TestCase/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-621">
-          <caret line="167" column="35" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_02_13).html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/get_test_case/read_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        <state relative-caret-position="1350">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_16).html">
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_07_12).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_07_13).html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/TestReport(04_01_17).html">
+    <entry file="file://$PROJECT_DIR$/API_Test/Test_Report/TestReport(04_07_13).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/test/test_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-795">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#2;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#62366#62370#0" expanded="true" />
-            <element signature="e#62383#62387#0" expanded="true" />
-            <element signature="e#62391#62395#0" expanded="true" />
-            <element signature="e#62409#62413#0" expanded="true" />
-            <element signature="e#62413#62417#0" expanded="true" />
-            <element signature="e#62421#62425#0" expanded="true" />
-            <element signature="e#62426#62430#0" expanded="true" />
-            <element signature="e#62434#62438#0" expanded="true" />
-            <element signature="e#62438#62442#0" expanded="true" />
-            <element signature="e#62502#62506#0" expanded="true" />
-            <element signature="e#62506#62510#0" expanded="true" />
-            <element signature="e#62557#62561#0" expanded="true" />
-            <element signature="e#62561#62565#0" expanded="true" />
-            <element signature="e#62598#62602#0" expanded="true" />
-            <element signature="e#62602#62606#0" expanded="true" />
-            <element signature="e#62722#62726#0" expanded="true" />
-            <element signature="e#62726#62730#0" expanded="true" />
-            <element signature="e#62735#62739#0" expanded="true" />
-            <element signature="e#62748#62752#0" expanded="true" />
-            <element signature="e#62758#62762#0" expanded="true" />
-            <element signature="e#62762#62766#0" expanded="true" />
-            <element signature="e#62771#62775#0" expanded="true" />
-            <element signature="e#62776#62780#0" expanded="true" />
-            <element signature="e#62797#62801#0" expanded="true" />
-            <element signature="e#62802#62806#0" expanded="true" />
-            <element signature="e#62820#62824#0" expanded="true" />
-            <element signature="e#62825#62829#0" expanded="true" />
-            <element signature="e#62840#62844#0" expanded="true" />
-            <element signature="e#62845#62849#0" expanded="true" />
-            <element signature="e#62871#62875#0" expanded="true" />
-            <element signature="e#62876#62880#0" expanded="true" />
-            <element signature="e#62896#62900#0" expanded="true" />
-            <element signature="e#62901#62905#0" expanded="true" />
-            <element signature="e#62929#62933#0" expanded="true" />
-            <element signature="e#62934#62938#0" expanded="true" />
-            <element signature="e#62947#62951#0" expanded="true" />
-            <element signature="e#62952#62956#0" expanded="true" />
-            <element signature="e#63032#63036#0" expanded="true" />
-            <element signature="e#63037#63041#0" expanded="true" />
-            <element signature="e#63045#63049#0" expanded="true" />
-            <element signature="e#63050#63054#0" expanded="true" />
-            <element signature="e#63107#63111#0" expanded="true" />
-            <element signature="e#63112#63116#0" expanded="true" />
-            <element signature="e#63157#63161#0" expanded="true" />
-            <element signature="e#63162#63166#0" expanded="true" />
-            <element signature="e#63203#63207#0" expanded="true" />
-            <element signature="e#63208#63212#0" expanded="true" />
-            <element signature="e#63244#63248#0" expanded="true" />
-            <element signature="e#63249#63253#0" expanded="true" />
-            <element signature="e#63290#63294#0" expanded="true" />
-            <element signature="e#63295#63299#0" expanded="true" />
-            <element signature="e#63337#63341#0" expanded="true" />
-            <element signature="e#63342#63346#0" expanded="true" />
-            <element signature="e#63383#63387#0" expanded="true" />
-            <element signature="e#63387#63391#0" expanded="true" />
-            <element signature="e#63415#63419#0" expanded="true" />
-            <element signature="e#63419#63423#0" expanded="true" />
-            <element signature="e#63511#63515#0" expanded="true" />
-            <element signature="e#63515#63519#0" expanded="true" />
-            <element signature="e#63524#63528#0" expanded="true" />
-            <element signature="e#63528#63532#0" expanded="true" />
-            <element signature="e#63556#63560#0" expanded="true" />
-            <element signature="e#63560#63564#0" expanded="true" />
-            <element signature="e#63625#63629#0" expanded="true" />
-            <element signature="e#63629#63633#0" expanded="true" />
-            <element signature="e#63638#63642#0" expanded="true" />
-            <element signature="e#63643#63647#0" expanded="true" />
-            <element signature="e#63652#63656#0" expanded="true" />
-            <element signature="e#63657#63661#0" expanded="true" />
-            <element signature="e#63665#63669#0" expanded="true" />
-            <element signature="e#63670#63674#0" expanded="true" />
-            <element signature="e#63678#63682#0" expanded="true" />
-            <element signature="e#63683#63687#0" expanded="true" />
-            <element signature="e#63696#63700#0" expanded="true" />
-            <element signature="e#63701#63705#0" expanded="true" />
-            <element signature="e#63759#63763#0" expanded="true" />
-            <element signature="e#63765#63769#0" expanded="true" />
-            <element signature="e#63771#63775#0" expanded="true" />
-            <element signature="e#63776#63780#0" expanded="true" />
-            <element signature="e#63837#63841#0" expanded="true" />
-            <element signature="e#63847#63851#0" expanded="true" />
-            <element signature="e#63853#63857#0" expanded="true" />
-            <element signature="e#63858#63862#0" expanded="true" />
-            <element signature="e#63914#63918#0" expanded="true" />
-            <element signature="e#63920#63924#0" expanded="true" />
-            <element signature="e#63926#63930#0" expanded="true" />
-            <element signature="e#63931#63935#0" expanded="true" />
-            <element signature="e#63987#63991#0" expanded="true" />
-            <element signature="e#63993#63997#0" expanded="true" />
-            <element signature="e#63999#64003#0" expanded="true" />
-            <element signature="e#64004#64008#0" expanded="true" />
-            <element signature="e#64064#64068#0" expanded="true" />
-            <element signature="e#64070#64074#0" expanded="true" />
-            <element signature="e#64076#64080#0" expanded="true" />
-            <element signature="e#64081#64085#0" expanded="true" />
-            <element signature="e#64093#64097#0" expanded="true" />
-            <element signature="e#64098#64102#0" expanded="true" />
-            <element signature="e#64151#64156#0" expanded="true" />
-            <element signature="e#64166#64171#0" expanded="true" />
-            <element signature="e#64246#64250#0" expanded="true" />
-            <element signature="e#64252#64256#0" expanded="true" />
-            <element signature="e#64258#64262#0" expanded="true" />
-            <element signature="e#64263#64267#0" expanded="true" />
-            <element signature="e#64276#64280#0" expanded="true" />
-            <element signature="e#64281#64285#0" expanded="true" />
-            <element signature="e#64291#64295#0" expanded="true" />
-            <element signature="e#64312#64316#0" expanded="true" />
-            <element signature="e#64366#64371#0" expanded="true" />
-            <element signature="e#64377#64382#0" expanded="true" />
-            <element signature="e#64469#64474#0" expanded="true" />
-            <element signature="e#64525#64529#0" expanded="true" />
-            <element signature="e#64531#64535#0" expanded="true" />
-            <element signature="e#64537#64541#0" expanded="true" />
-            <element signature="e#64565#64569#0" expanded="true" />
-            <element signature="e#64576#64580#0" expanded="true" />
-            <element signature="e#64581#64585#0" expanded="true" />
-            <element signature="e#64663#64667#0" expanded="true" />
-            <element signature="e#64671#64675#0" expanded="true" />
-            <element signature="e#64677#64681#0" expanded="true" />
-            <element signature="e#64682#64686#0" expanded="true" />
-            <element signature="e#64690#64694#0" expanded="true" />
-            <element signature="e#64695#64699#0" expanded="true" />
-            <element signature="e#64703#64707#0" expanded="true" />
-            <element signature="e#64708#64712#0" expanded="true" />
-            <element signature="e#64716#64720#0" expanded="true" />
-            <element signature="e#64721#64725#0" expanded="true" />
-            <element signature="e#64737#64741#0" expanded="true" />
-            <element signature="e#64742#64746#0" expanded="true" />
-            <element signature="e#64759#64763#0" expanded="true" />
-            <element signature="e#64764#64768#0" expanded="true" />
-            <element signature="e#64775#64779#0" expanded="true" />
-            <element signature="e#64780#64784#0" expanded="true" />
-            <element signature="e#64812#64816#0" expanded="true" />
-            <element signature="e#64820#64824#0" expanded="true" />
-            <element signature="e#64826#64830#0" expanded="true" />
-            <element signature="e#64831#64835#0" expanded="true" />
-            <element signature="e#64861#64865#0" expanded="true" />
-            <element signature="e#64876#64880#0" expanded="true" />
-            <element signature="e#64882#64886#0" expanded="true" />
-            <element signature="e#64887#64891#0" expanded="true" />
-            <element signature="e#64893#64897#0" expanded="true" />
-            <element signature="e#64898#64902#0" expanded="true" />
-            <element signature="e#64909#64913#0" expanded="true" />
-            <element signature="e#64913#64918#0" expanded="true" />
-            <element signature="e#64927#64932#0" expanded="true" />
-            <element signature="e#64942#64947#0" expanded="true" />
-            <element signature="e#64952#64956#0" expanded="true" />
-            <element signature="e#64989#64993#0" expanded="true" />
-            <element signature="e#65000#65004#0" expanded="true" />
-            <element signature="e#65006#65010#0" expanded="true" />
-            <element signature="e#65010#65015#0" expanded="true" />
-            <element signature="e#65021#65025#0" expanded="true" />
-            <element signature="e#65074#65078#0" expanded="true" />
-            <element signature="e#65082#65086#0" expanded="true" />
-            <element signature="e#65088#65092#0" expanded="true" />
-            <element signature="e#65092#65097#0" expanded="true" />
-            <element signature="e#65114#65119#0" expanded="true" />
-            <element signature="e#65125#65129#0" expanded="true" />
-            <element signature="e#65163#65167#0" expanded="true" />
-            <element signature="e#65168#65172#0" expanded="true" />
-            <element signature="e#65174#65178#0" expanded="true" />
-            <element signature="e#65179#65183#0" expanded="true" />
-            <element signature="e#65187#65191#0" expanded="true" />
-            <element signature="e#65192#65196#0" expanded="true" />
-            <element signature="e#65200#65204#0" expanded="true" />
-            <element signature="e#65205#65209#0" expanded="true" />
-            <element signature="e#65213#65217#0" expanded="true" />
-            <element signature="e#65218#65222#0" expanded="true" />
-            <element signature="e#65227#65231#0" expanded="true" />
-            <element signature="e#65232#65236#0" expanded="true" />
-            <element signature="e#65241#65245#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#67703#67707#0" expanded="true" />
-            <element signature="e#67718#67722#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#4;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#5;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#6;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#7;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#8;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#9;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#11;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#12;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#13;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#14;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/API_Test/script/api_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
+        <state relative-caret-position="324">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -779,29 +553,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_15_19_44_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_15_07_56_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HtmlTestReport/2021-04-02_16_03_27_result.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API_Test/test/test_data.py">
+    <entry file="file://$PROJECT_DIR$/API_Test/runMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="331">
+          <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API_Test/HwTestReport/HwTestReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2025">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/API_Test/send_report/runtest_htmltestrunner_autosendemail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        <state relative-caret-position="1060">
+          <caret line="74" column="24" lean-forward="true" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>
