@@ -5,7 +5,7 @@ import time
 import os
 import smtplib
 from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
+from email.mime.multipart import MIMEMultipart 
 from email.header import Header
 
 #2.定义：取最新测试报告，参数为报告路径
